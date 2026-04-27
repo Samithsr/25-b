@@ -132,7 +132,7 @@ class MQTTHandler {
 
   initializeClient() {
     const options = {
-      host: "3.111.87.2",
+      host: "13.201.189.63",
       port: 1883,
       protocol: "mqtt",
       keepalive: 30,
